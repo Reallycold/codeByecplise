@@ -1,0 +1,6 @@
+File(文件特征与管理):用于
+
+InputStream[ FileInputStream
+			BufferedInputStream
+
+IO入门之File类代码如下
